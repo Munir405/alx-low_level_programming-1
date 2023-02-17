@@ -1,12 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Entry point.
- *
- * description: this is a program that prints exactly programming is like building a multilingual puzzle
- * using the function puts.
- *
- * return: always (0) (success)
+ * main - Entry point
+ * return: always (0) (sucess)
  */
 
 int main(void)
@@ -14,4 +10,3 @@ int main(void)
 	puts("\"programming is like building a multilingual puzzle");
 	return (0);
 }
-
